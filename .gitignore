@@ -1,0 +1,31 @@
+# PHP
+/vendor/
+composer.lock
+.env
+.env.local
+.env.production
+*.log
+
+# IDE & system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Cache
+cache/
+tmp/
+*.bak
+*.swp
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# Sensitive project data
+config.php
+db.php
+uploads/
+keys/
+secrets/
