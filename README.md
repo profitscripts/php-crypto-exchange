@@ -1,6 +1,7 @@
 # 💎 ProfitScripts — Advanced Cryptocurrency Exchange Script (Binance-Style)
 
-![ProfitScripts Exchange](https://i.imgur.com/pQzRx7D.png)
+![Cryptocurrency Exchange Script](https://i.imgur.com/pQzRx7D.png)
+![Clone Binance Exchange Script](https://i.imgur.com/UDXuFXI.png)
 
 ## 🚀 About the Project
 **ProfitScripts** is a **full-featured cryptocurrency exchange script** built on **PHP 7.0+**, inspired by **Binance** but developed completely from scratch.  
